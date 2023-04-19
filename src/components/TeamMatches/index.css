@@ -1,0 +1,50 @@
+.mainBg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 10px 25px;
+  background-size: cover;
+  height: 100%;
+  list-style-position: outside;
+  list-style: none;
+}
+.RCB {
+  background-image: linear-gradient(to bottom, #a4261d, #a4261d, #000d);
+}
+.MI {
+  background-image: linear-gradient(to bottom, #004b8d, #004b8d, #000d);
+}
+.DC {
+  background-image: linear-gradient(to bottom, #2561ae, #2561ae, #000d);
+}
+.SH {
+  background-image: linear-gradient(to bottom, #f98e0b, #f98e0b, #000d);
+}
+.RR {
+  background-image: linear-gradient(to bottom, #292968, #292968, #000d);
+}
+.KKR {
+  background-image: linear-gradient(to bottom, #3a225d, #3a225d, #000d);
+}
+.KXP {
+  background-image: linear-gradient(to bottom, #ff0000, #ff0000, #000d);
+}
+.CSK {
+  background-color: yellow;
+}
+.matches {
+  color: #fff;
+  font-family: Bree Serif;
+}
+.match-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style-type: none;
+  list-style: none;
+  list-style-position: outside;
+}
+.margin {
+  margin-bottom: 10px;
+}

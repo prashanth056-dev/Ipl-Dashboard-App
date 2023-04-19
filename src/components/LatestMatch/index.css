@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  background-color: #0009;
+  border-radius: 20px;
+  font-family: Bree Serif;
+  padding: 0px 20px;
+  list-style: none;
+  list-style-position: outside;
+}
+.imagg {
+  width: 30%;
+}
+.head {
+  font-size: 20px;
+}
+.info {
+  font-size: 15px;
+}
